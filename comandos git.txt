@@ -8,7 +8,7 @@ git rm --cached *.* - remover arquivos do repositório Git e do seu diretório d
 
 git commit -m "descrição da modificação" - comando para registrar as alterações feitas em seus arquivos criando um ponto de restauração no histórico para facilitar o acompanhamento.
 
-git log - 
+git log - exibe o histórico de commits (alterações) de um repositório Git, mostrando detalhes como o hash do commit, autor, data e mensagem, em ordem cronológica reversa (mais recente primeiro), ajudando a entender a evolução do projeto e quem fez o quê
 
 git checkout - 
 
