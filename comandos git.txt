@@ -1,0 +1,19 @@
+git init - transformar o diretório atual em um repositório Git, criando uma pasta oculta .git que rastreia todas as mudanças do seu projeto.
+
+git status - verifica o estado do seu repositório local, mostrando quais arquivos foram modificados, adicionados ou excluídos desde o último commit, quais estão na área de staging (prontos para o commit) e quais não estão sendo monitorados.
+
+git add . - prepara as alterações feitas em arquivos no seu diretório de trabalho para serem incluídas no próximo commit, movendo-as para uma área intermediária chamada "área de staging (ou índice)".
+
+git rm --cached *.* - remover arquivos do repositório Git e do seu diretório de trabalho local (seu computador), marcando essa exclusão para ser enviada ao GitHub.
+
+git commit -m "descrição da modificação" - comando para registrar as alterações feitas em seus arquivos criando um ponto de restauração no histórico para facilitar o acompanhamento.
+
+git log - 
+
+git checkout - 
+
+git branch -M main - 
+
+git push -u origin main - envia modificações locais para o repositório remoto
+
+git pull - puxa modificações do repositório remoto para o repositório local
