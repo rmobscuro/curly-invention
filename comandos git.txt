@@ -17,3 +17,5 @@ git branch -M main -
 git push -u origin main - envia modificações locais para o repositório remoto
 
 git pull - puxa modificações do repositório remoto para o repositório local
+
+git clone -
